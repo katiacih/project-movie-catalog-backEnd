@@ -1,0 +1,19 @@
+{
+  "name": "project-movie-catalog-backend",
+  "version": "1.0.0",
+  "description": "Develop a simple movie catalog project that allows the user to create, edit, list, and see details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katiacih/project-movie-catalog-backEnd.git"
+  },
+  "author": "katiacih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katiacih/project-movie-catalog-backEnd/issues"
+  },
+  "homepage": "https://github.com/katiacih/project-movie-catalog-backEnd#readme"
+}
