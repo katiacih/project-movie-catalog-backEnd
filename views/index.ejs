@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Movies</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/styles.css"> -->
+</head>
+<body>
+  <h2>Hi, this is index</h2>
+  <div class="list-group">
+      <% for (movie of movies){%>
+      <a href="#" class="list-group-item list-group-item-action">
+          <%= movie.title %>
+      </a>
+      <% }%>
+    </div>
+</body>
+</html>  
+ 

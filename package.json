@@ -17,6 +17,13 @@
   },
   "homepage": "https://github.com/katiacih/project-movie-catalog-backEnd#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0",
+    "faker": "^4.1.0",
+    "fsevents": "^1.2.4",
+    "nodemon": "^1.18.9",
+    "path-to-regexp": "^3.0.0"
   }
 }

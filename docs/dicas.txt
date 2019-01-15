@@ -62,3 +62,6 @@ config:
 
 var expressValidator = require('express-validator');
 app.use(expressValidator());
+
+Usando  path para uso de roteamento
+npm install path-to-regexp --save
